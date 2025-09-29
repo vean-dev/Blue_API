@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": " index"
+    "start": "node index.js",
+    "test": "index"
   },
   "author": "Vean Angelo Ramos",
   "license": "ISC",
