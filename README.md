@@ -9,3 +9,5 @@ Blue Project is web application to manage organization member data.
 - Available Soon
 
 ## Tech
+
+- Available Soon
